@@ -2,7 +2,8 @@
 -   id: nox-py2
     name: nox-py2
     entry: nox
-    language: python3
+    language: python
+    language_version: python3
     args: []
     require_serial: false
     additional_dependencies: []
